@@ -1,1 +1,3 @@
 Hello, my name is Nicholas Tran
+Hello, our names are Nicholas and Andy and we are working on
+hw4 together
